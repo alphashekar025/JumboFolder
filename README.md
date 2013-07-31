@@ -1,7 +1,7 @@
 JumboFolder
 ===========
 
-This is an utility to find the large folders in Windows systems. 
+This is an utility to find large folders in Windows systems. 
 
 USEAGE:
 =======
