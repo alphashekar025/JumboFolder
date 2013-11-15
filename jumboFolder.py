@@ -44,6 +44,6 @@ def walk_through(root_dir):
     else:
         print "No such file/Dir found !!"
 
-
-path = raw_input('Enter the root path :')
-walk_through(path)
+if __name__ == "__main__":
+    path = raw_input('Enter the root path :')
+    walk_through(path)
